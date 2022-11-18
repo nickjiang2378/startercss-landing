@@ -4,12 +4,7 @@
 
 .main {
   min-height: 100vh;
-  padding: 4rem 0;
-  flex: 1;
-  display: flex;
-  flex-direction: column;
-  justify-content: center;
-  align-items: center;
+  padding: 5rem 10rem;
 }
 
 .footer {
@@ -42,16 +37,18 @@
 .title {
   margin: 0;
   line-height: 1.15;
-  font-size: 4rem;
+  font-size: 3.5rem;
 }
 
-.title,
-.description {
-  text-align: center;
+.gradientHighlight {
+  background-color: #0070f3;
+  background-image: linear-gradient(90deg,rgb(237, 72, 155), #5a4fcf);
+  background-clip: text;
+  color: transparent;
 }
 
 .description {
-  margin: 4rem 0;
+  margin: 2rem 0;
   line-height: 1.5;
   font-size: 1.5rem;
 }
