@@ -43,7 +43,7 @@ export default function Home() {
         </p>
        
         <p className={styles.description}>
-          I'm happy to hear your thoughts! Feel free to DM me on <a target="_blank" className={styles.link} href="https://twitter.com/nickhjiang">Twitter</a> or message me at +1 9258581652.
+          I'd love to hear your thoughts! Feel free to DM me on <a target="_blank" className={styles.link} href="https://twitter.com/nickhjiang">Twitter</a> or message me at +1 9258581652.
         </p>
 
       </main>
