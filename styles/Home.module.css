@@ -4,7 +4,7 @@
 
 .main {
   min-height: 100vh;
-  padding: 5rem 10rem;
+  padding: 5rem 20vw;
 }
 
 .footer {
@@ -23,21 +23,21 @@
   flex-grow: 1;
 }
 
-.title a {
+.link {
   color: #0070f3;
   text-decoration: none;
 }
 
-.title a:hover,
-.title a:focus,
-.title a:active {
+.link:hover,
+.link:focus,
+.link:active {
   text-decoration: underline;
 }
 
 .title {
-  margin: 0;
+  margin-bottom: 30px;
   line-height: 1.15;
-  font-size: 3.5rem;
+  font-size: 4rem;
 }
 
 .gradientHighlight {
