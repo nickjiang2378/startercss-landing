@@ -37,7 +37,7 @@
 .title {
   margin-bottom: 30px;
   line-height: 1.15;
-  font-size: 4rem;
+  font-size: 3rem;
 }
 
 .gradientHighlight {
@@ -123,4 +123,11 @@
   .logo img {
     filter: invert(1);
   }
+}
+
+.announcement {
+  padding: 1rem;
+  border: 1px solid #db9833;
+  background-color: #f6d8ac;
+  border-radius: 10px;
 }

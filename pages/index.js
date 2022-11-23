@@ -38,7 +38,8 @@ export default function Home() {
         </p>
 
         <p className={styles.description}>
-          To try it out, head over to the <a target="_blank" className={styles.link} href="https://chrome.google.com/webstore/detail/iafddfmhieikpdmmakjedpcconjgcgga">Web store</a>. 
+          To try it out, head over to the <a target="_blank" className={styles.link} href="https://chrome.google.com/webstore/detail/iafddfmhieikpdmmakjedpcconjgcgga">Web store</a>.
+          If you want to test it on some random code, I've made a small <a className={styles.link} href="/playground">playground</a>.
         </p>
        
         <p className={styles.description}>
