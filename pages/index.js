@@ -7,13 +7,13 @@ export default function Home() {
     <div className={styles.container}>
       <Head>
         <title>StarterCSS</title>
-        <meta name="description" content="Starter code for rapid development with CSS" />
+        <meta name="description" content="Pick up CSS faster than ever" />
         <link rel="icon" href="/starter_css.png" />
       </Head>
 
       <main className={styles.main}>
         <h1 className={styles.title}>
-          Rapidly style frontends with <span className={styles.gradientHighlight}>StarterCSS</span>
+          Pick up <span className={styles.gradientHighlight}>CSS</span> faster than ever.
         </h1>
 
         <div style={{ position: "relative", paddingBottom: "54.05405405405405%", height: 0}}>
@@ -28,13 +28,13 @@ export default function Home() {
 
         <p className={styles.description}>
           StarterCSS is a chrome extension for web developers 
-          to effortlessly implement CSS layouts, effects, and designs without parsing through documentation. 
+          to effortlessly implement CSS layouts, effects, and designs without parsing through online docs. 
         </p>
         
         <p className={styles.description}>
-          Picking up CSS can be challenging, and StarterCSS saves you the 
-          time of pouring through tutorials with an intuitive dashboard to visualize and customize common CSS features. 
-          Make your changes at a few clicks, and understand why they worked.
+          Learning CSS can be challenging. StarterCSS saves you the 
+          time pouring through tutorials by providing an intuitive dashboard to visualize and customize CSS features like flexboxes. 
+          Make your changes with a few clicks, and understand why they worked.
         </p>
 
         <p className={styles.description}>
