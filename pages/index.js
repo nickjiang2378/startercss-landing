@@ -7,13 +7,13 @@ export default function Home() {
     <div className={styles.container}>
       <Head>
         <title>StarterCSS</title>
-        <meta name="description" content="Pick up CSS faster than ever" />
+        <meta name="description" content="Pick up CSS faster than ever!" />
         <link rel="icon" href="/starter_css.png" />
       </Head>
 
       <main className={styles.main}>
         <h1 className={styles.title}>
-          Pick up <span className={styles.gradientHighlight}>CSS</span> faster than ever.
+          Pick up <span className={styles.gradientHighlight}>CSS</span> faster than ever!
         </h1>
 
         <div style={{ position: "relative", paddingBottom: "54.05405405405405%", height: 0}}>
