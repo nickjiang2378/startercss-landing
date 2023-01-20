@@ -12,7 +12,7 @@ export default function Playground() {
       </Head>
 
       <main className={styles.main}>
-        <div className={styles.announcement}>If you have not installed StarterCSS yet, first get it <a target="_blank" className={styles.link} href="https://chrome.google.com/webstore/detail/iafddfmhieikpdmmakjedpcconjgcgga">here</a>.</div>
+        <div className={styles.announcement}>If you have not installed StarterCSS yet, first get it <a target="_blank" className={styles.link} href="https://chrome.google.com/webstore/detail/iafddfmhieikpdmmakjedpcconjgcgga">here</a> :D.</div>
 
         <h1>Playground Environment</h1>
 
