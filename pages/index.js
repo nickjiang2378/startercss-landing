@@ -27,7 +27,7 @@ export default function Home() {
         </div>
 
         <p className={styles.description}>
-          StarterCSS is a chrome extension for web developers 
+        <a target="_blank" className={styles.link} href="https://chrome.google.com/webstore/detail/iafddfmhieikpdmmakjedpcconjgcgga">StarterCSS</a> is a chrome extension for web developers 
           to effortlessly implement CSS layouts, effects, and designs without parsing through online docs. 
         </p>
         
@@ -43,7 +43,7 @@ export default function Home() {
         </p>
        
         <p className={styles.description}>
-          I'd love to hear your thoughts! Feel free to DM me on <a target="_blank" className={styles.link} href="https://twitter.com/nickhjiang">Twitter</a> or message me at +1 9258581652.
+          I'd love to hear your thoughts! Feel free to DM me on <a target="_blank" className={styles.link} href="https://twitter.com/nickhjiang">Twitter</a>.
         </p>
 
       </main>
