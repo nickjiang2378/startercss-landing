@@ -28,13 +28,14 @@ export default function Home() {
 
         <p className={styles.description}>
         <a target="_blank" className={styles.link} href="https://chrome.google.com/webstore/detail/iafddfmhieikpdmmakjedpcconjgcgga">StarterCSS</a> is a chrome extension for web developers 
-          to effortlessly implement CSS layouts, effects, and designs without parsing through online docs. 
+          to effortlessly implement CSS layouts, effects, and designs with a visual dashboard. 
         </p>
         
         <p className={styles.description}>
-          Learning CSS can be challenging. StarterCSS saves you the 
-          time pouring through tutorials by providing an intuitive dashboard to visualize and customize CSS features like flexboxes. 
-          Make your changes with a few clicks, and understand why they worked.
+          Despite its versatility, CSS is still challenging for beginners to pick up today due to the amount of syntax 
+          to learn and the oversaturation of online resources, particularly for barebones use cases. StarterCSS saves you the 
+          time of pouring through tutorials by providing an intuitive dashboard to visualize and customize CSS features like flexboxes and grids. 
+          Make your changes with a few clicks, and understand why they worked—all without relying on Google.
         </p>
 
         <p className={styles.description}>
